@@ -17,12 +17,12 @@ Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaix
 <div style="display: inline_block"><br>
  <!--- <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=(name)"> --->
 
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
 </div>
 
 <p></p>
@@ -30,13 +30,15 @@ Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaix
 <div> 
   <img align="center" alt="Lais-Windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Lais-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">  
-<div align="center"> 
-  <a href = "mailto:laisgfs13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
-  <a href="https://instagram.com/ps_dva" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
-</div>
 </div>
 
+<p></p>
+
+<div align="center">
+  <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ps_dva" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge"></a>
+</div>
 
 #
 
