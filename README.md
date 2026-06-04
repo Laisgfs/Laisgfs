@@ -32,11 +32,21 @@ Meu nome é Laís Gonçalves, sou de Minas Gerais. **`🎓Cursando Sistemas de i
 
 </div>
 
+##
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Laisgfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div>
-   <a href="https://beacons.ai/rafaballerini">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laisgfs>
-          
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laisgfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-
+</p>
