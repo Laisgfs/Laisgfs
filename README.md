@@ -16,12 +16,28 @@ Meu nome é Laís Gonçalves, sou de Minas Gerais. **`🎓Cursando Sistemas de i
   <img align="center" alt="Lais-Figma" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Figma-Dark.svg">
 
 </div>
+
+<p></p>
+
+<div>
+  <img align="center" alt="Lais-Windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Lais-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
+</div>
   
   ##
  
 <div> 
+ <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/ps_dva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
+
+
+<div>
+   <a href="https://beacons.ai/rafaballerini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laisgfs>
+          
+</div>
+
+
