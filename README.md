@@ -1,8 +1,18 @@
-## Olá! Seja bem vindo(a)!
-**`Futura Dev FullStack`**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Oii!+Seja+bem+vindo(a)!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-Meu nome é Laís Gonçalves, sou de Minas Gerais. **`🎓Cursando Sistemas de informação.`** 
+##
 
+<div align="rigth">
+
+ 
+Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaixonada por tecnologia, design e desenvolvimento de software.
+
+**`🎓Cursando Sistemas de informação.`** 
+</div>
 
 <div style="display: inline_block"><br>
  <!--- <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=(name)"> --->
@@ -13,31 +23,35 @@ Meu nome é Laís Gonçalves, sou de Minas Gerais. **`🎓Cursando Sistemas de i
   <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
-
 </div>
 
 <p></p>
 
-<div>
-  <img align="center" alt="Lais-Windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="Lais-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
-</div>
-  
-  ##
- 
 <div> 
- <a href = "mailto:laisgfs13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
- <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
- <a href="https://instagram.com/ps_dva" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
-
+  <img align="center" alt="Lais-Windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Lais-Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">  
+<div align="center"> 
+  <a href = "mailto:laisgfs13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+  <a href="https://instagram.com/ps_dva" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</div>
 </div>
 
-##
+
+#
+
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Laisgfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
+src="https://github-readme-stats-two-omega-43.vercel.app/api?username=laisgfs&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+/>
 
-<img align="left" alt="GitHub Stats" height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laisgfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-
+<img align="left" alt="GitHub Stats" height="200" 
+src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=laisgfs&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8" 
+/>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laisgfs/laisgfs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laisgfs/laisgfs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laisgfs/laisgfs/output/github-contribution-grid-snake.svg">
+</picture>
