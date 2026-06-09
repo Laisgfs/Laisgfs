@@ -13,7 +13,7 @@ Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaix
 
 **`🎓Cursando Sistemas de informação.`** 
 
-**`🚀Desenvolvimento Contínuo: Atualmente me especializando em desenvolvimento de software através de Bootcamps na DIO (Digital Innovation One).`** 
+**`🚀Desenvolvimento Contínuo através de Bootcamps na Digital Innovation One.`** 
 </div>
 
 <div style="display: inline_block"><br>
