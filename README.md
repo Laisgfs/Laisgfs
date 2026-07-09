@@ -19,7 +19,7 @@ Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaix
 <div style="display: inline_block"><br>
  <!--- <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=(name)"> --->
 
-  <img align="center" alt="Lais-icon" height="40" width="40" src="[Idea-Dark.svg)">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="[[Idea-Dark.svg](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Idea-Dark.svg))">
   <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=html">
