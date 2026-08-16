@@ -9,7 +9,7 @@
 <div align="rigth">
 
  
-Meu nome é Laís Gonçalves, tenho 21 anos e sou natural de Minas Gerais. Apaixonada por tecnologia, design e desenvolvimento de software.
+Meu nome é Laís Gonçalves, tenho 21 anos sou de Minas Gerais. Atualmente trabalho como NOC em uma empresa de redes e me especializando em cybersegurança.
 
 **`🎓Cursando Sistemas de informação.`** 
 
