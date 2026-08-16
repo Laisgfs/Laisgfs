@@ -46,8 +46,9 @@
 </div>
 
 <p></p>
+<div align="center">
 📫 **Vamos nos conectar?**
-
+</div>
 <div align="center">
   <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laís-gonçalves-906433374" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
