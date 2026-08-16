@@ -47,7 +47,7 @@
 
 <p></p>
 <div align="center">
-📫 **Vamos nos conectar?**
+📫 Vamos nos conectar!
 </div>
 <div align="center">
   <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" target="_blank"></a>
