@@ -32,8 +32,8 @@
 <div style="display: inline_block"><br>
  <!--- <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=(name)"> --->
 
-  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=Python">
-  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=Java">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=java">
 
   
 </div>
