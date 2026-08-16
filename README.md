@@ -24,7 +24,7 @@
 - **Sistemas & Segurança:** Windows, Linux, Segurança de Redes, Análise de Vulnerabilidades.
 
 
-**`🎓Cursando Sistemas de informação.`** 
+**`🎓Cursando Sistemas de informação. -Atualmente no 6 período.`** 
 
 **`🚀Desenvolvimento Contínuo através de Bootcamps na Digital Innovation One.`** 
 </div>
