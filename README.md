@@ -7,9 +7,22 @@
 ##
 
 <div align="rigth">
+# Laís Gonçalves 🛡️
+*NOC Analyst | Cybersecurity Student*
 
- 
-Meu nome é Laís Gonçalves, tenho 21 anos sou de Minas Gerais. Atualmente trabalho como NOC em uma empresa de redes e me especializando em cybersegurança.
+> Apaixonada por redes, infraestrutura e segurança da informação.
+
+---
+
+### 📌 Sobre mim
+- 🏢 Atuo na área de **NOC**, lidando com monitoramento e análise de ambientes de rede.
+- 🎯 Foco atual: Especialização e transição para a área de **Cibersegurança**.
+- 📍 Baseada em Minas Gerais, Brasil.
+
+### 🛠️ Tecnologias & Ferramentas
+- **Redes & Monitoramento:** TCP/IP, Roteamento, Switching, Wireshark, Grafana.
+- **Sistemas & Segurança:** Windows, Linux, Segurança de Redes, Análise de Vulnerabilidades.
+
 
 **`🎓Cursando Sistemas de informação.`** 
 
@@ -20,7 +33,7 @@ Meu nome é Laís Gonçalves, tenho 21 anos sou de Minas Gerais. Atualmente trab
  <!--- <img align="center" alt="Lais-Js" height="40" width="40" src="https://skillicons.dev/icons?i=(name)"> --->
 
   <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=Python">
-  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=Grafana">
+  <img align="center" alt="Lais-icon" height="40" width="40" src="https://skillicons.dev/icons?i=Java">
 
   
 </div>
@@ -33,6 +46,7 @@ Meu nome é Laís Gonçalves, tenho 21 anos sou de Minas Gerais. Atualmente trab
 </div>
 
 <p></p>
+📫 **Vamos nos conectar?**
 
 <div align="center">
   <a href = "mailto:laisgfs13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" target="_blank"></a>
