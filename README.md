@@ -7,22 +7,14 @@
 ##
 
 <div align="rigth">
-# Laís Gonçalves 🛡️
-*NOC Analyst | Cybersecurity Student*
-
-> Apaixonada por redes, infraestrutura e segurança da informação.
+# Laís Gonçalves *
 
 ---
 
 ### 📌 Sobre mim
 - 🏢 Atuo na área de **NOC**, lidando com monitoramento e análise de ambientes de rede.
-- 🎯 Foco atual: Especialização e transição para a área de **Cibersegurança**.
+- 🎯 Foco atual: Especialização e transição para a área de ****.
 - 📍 Baseada em Minas Gerais, Brasil.
-
-### 🛠️ Tecnologias & Ferramentas
-- **Redes & Monitoramento:** TCP/IP, Roteamento, Switching, Wireshark, Grafana.
-- **Sistemas & Segurança:** Windows, Linux, Segurança de Redes, Análise de Vulnerabilidades.
-
 
 **`🎓Cursando Sistemas de informação. -Atualmente no 6 período.`** 
 
